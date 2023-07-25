@@ -19,5 +19,6 @@ setup the provider
 -------------------
 Display Data
 -------------------
-
+15. create github,facebook, twitter, app
+16.get client id and client secret
 */
